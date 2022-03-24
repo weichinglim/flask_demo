@@ -19,7 +19,7 @@ Basic Flask application for class demonstration
 ---
 ## To-do: 
 
-- [x] Get Flask running on local computer
+- [x] ~~Get Flask running on local computer~~
 - [ ] Add web form for users
 - [ ] Collect web form data and manipulate
 - [ ] Read API data from another source
