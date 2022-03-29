@@ -1,4 +1,5 @@
 # Flask Template
+![Flask](https://img.shields.io/badge/-Glask-black?logo=flask)
 Basic Flask application for class demonstration
 
 ---
