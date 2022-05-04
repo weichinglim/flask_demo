@@ -22,7 +22,7 @@ Basic Flask application for class demonstration
 ## To-do: 
 
 - [x] ~~Get Flask running on local computer~~
-- [ ] Add web form for users
-- [ ] Collect web form data and manipulate
+- [x] ~~Add web form for users~~
+- [x] ~~Collect web form data and manipulate~~
 - [ ] Read API data from another source
 - [ ] Read database data from a RDBMS
